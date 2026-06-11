@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Jeromesds0
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data
-- 📫 How to reach me email
+ Hi, I’m jerome
 
 <!---
 Jeromesds0/Jeromesds0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
